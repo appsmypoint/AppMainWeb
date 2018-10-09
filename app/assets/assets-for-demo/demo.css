@@ -3,6 +3,14 @@
 
 /* Section Components */
 
+input {
+    border: none
+}
+
+ul {
+    list-style-type: none;
+}
+
 .presentation-page{
   overflow-x: hidden;
 }
