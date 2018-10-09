@@ -127,7 +127,7 @@ class Main extends React.Component {
                     summary={itemExperience.summary}
                     tag={itemExperience.tags[0].name}
                     image={itemExperience.pictures[0]}
-                    action="https://reactjs.org/"
+                    action={"http://www.mypoint.com.co/detail/?id=" + itemExperience.id} 
                  >
                  
                 </ExperienceUI>)
