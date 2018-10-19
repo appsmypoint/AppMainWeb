@@ -203,7 +203,7 @@ eval("module.exports = __webpack_require__.p + \"c18cd7b5c2cefc914fb0f2a03d17279
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("module.exports = __webpack_require__.p + \"e27db4eaf9804cca56186229f95846f0.png\";\n\n//# sourceURL=webpack:///./app/assets/img/header_logo_02.png?");
+eval("module.exports = __webpack_require__.p + \"76cb9cd2c241ec0c53ce96d5f0788a41.png\";\n\n//# sourceURL=webpack:///./app/assets/img/header_logo_02.png?");
 
 /***/ }),
 
